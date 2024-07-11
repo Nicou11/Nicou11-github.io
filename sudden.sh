@@ -2,6 +2,7 @@
 
 FILE=~/tmp/_SUDDEN
 
+
 while true
 do
 	if [ -e "$FILE" ]; then
@@ -9,6 +10,7 @@ do
 	    echo "SUDDEN!!!"
         else
 	    clear
+	 figlet KIA
             date	    
 	fi    
 	sleep 3
