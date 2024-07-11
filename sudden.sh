@@ -11,5 +11,5 @@ do
 	    clear
             date	    
 	fi    
-	#sleep 3
+	sleep 3
 done
