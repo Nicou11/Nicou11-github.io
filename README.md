@@ -1,6 +1,7 @@
 #Nicou
-https://nicou.firebaseapp.com/
-https://nicou.web.app/
+
+- https://nicou.firebaseapp.com/
+- https://nicou.web.app/
 
 ### Deploy
 ```bash
